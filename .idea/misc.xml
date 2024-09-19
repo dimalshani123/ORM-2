@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/One-To-One-Mapping/pom.xml" />
+        <option value="$PROJECT_DIR$/Many-To-Many/pom.xml" />
+        <option value="$PROJECT_DIR$/One-To-Manyy/pom.xml" />
+        <option value="$USER_HOME$/Desktop/project/Eager_Fretching/pom.xml" />
+        <option value="$PROJECT_DIR$/Lazy_Fretching/pom.xml" />
+        <option value="$PROJECT_DIR$/Eager_Fretching/pom.xml" />
+        <option value="$PROJECT_DIR$/HQL/pom.xml" />
+        <option value="$PROJECT_DIR$/SQL/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$USER_HOME$/Desktop/project/Eager_Fretching/Lazy_Fretching/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

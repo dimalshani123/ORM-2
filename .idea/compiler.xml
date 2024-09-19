@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="One-To-Many" />
+        <module name="Lazy_Fretching" />
+        <module name="Eager_Fretching" />
+        <module name="Phamacy (3)" />
+        <module name="Phamacy (2)" />
+        <module name="HQL" />
+        <module name="Phamacy (1)" />
+        <module name="One-To-One-Mapping" />
+        <module name="One-To-Manyy" />
+        <module name="SQL" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
